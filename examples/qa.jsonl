@@ -1,0 +1,10 @@
+{"id": "q01", "question": "How much does the Team plan cost per member?", "relevant_ids": ["billing.md#1"], "expected_answer": "8 dollars per member per month"}
+{"id": "q02", "question": "How long do I have to ask for a refund?", "relevant_ids": ["billing.md#3"], "expected_answer": "14 days"}
+{"id": "q03", "question": "What happens to my workspace when the card keeps getting declined?", "relevant_ids": ["billing.md#4"], "expected_answer": "the workspace becomes read-only", "must_contain": ["read-only"]}
+{"id": "q04", "question": "How often do notes sync between devices?", "relevant_ids": ["sync.md#1"], "expected_answer": "every 30 seconds"}
+{"id": "q05", "question": "What does Orbit Notes do when two devices change the same note?", "relevant_ids": ["sync.md#3"], "expected_answer": "it keeps both versions", "must_contain": ["both versions"]}
+{"id": "q06", "question": "What is the largest file I can attach?", "relevant_ids": ["sync.md#4"], "expected_answer": "200 MB"}
+{"id": "q07", "question": "How many guests can a workspace invite?", "relevant_ids": ["sharing.md#2"], "expected_answer": "up to 25 guests"}
+{"id": "q08", "question": "How long do deleted notes stay in the trash?", "relevant_ids": ["sharing.md#4"], "expected_answer": "30 days"}
+{"id": "q09", "question": "Which formats can I export a notebook to?", "relevant_ids": ["sharing.md#3"], "expected_answer": "Markdown or PDF"}
+{"id": "q10", "question": "Where can I find old invoices and how are payments retried?", "relevant_ids": ["billing.md#2", "billing.md#4"]}
